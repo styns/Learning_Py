@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca73b577-191b-4a85-87b2-8a5e550a2e96" name="Default Changelist" comment="Try to commit">
+    <list default="true" id="ca73b577-191b-4a85-87b2-8a5e550a2e96" name="Default Changelist" comment="Rico of two points">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonacci.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603723689533</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Rico of two points">
+      <created>1603724778682</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603724778682</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,32 +109,34 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Try to commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Try to commit" />
+    <MESSAGE value="Rico of two points" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rico of two points" />
   </component>
   <component name="WindowStateProjectService">
     <state x="100" y="123" width="1080" height="509" key="DiffContextDialog" timestamp="1603724145602">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state x="100" y="123" width="1080" height="509" key="DiffContextDialog/0.23.1280.709@0.23.1280.709" timestamp="1603724145602" />
-    <state width="1259" height="175" key="GridCell.Tab.0.bottom" timestamp="1603724745415">
+    <state width="1259" height="175" key="GridCell.Tab.0.bottom" timestamp="1603724805165">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state width="1259" height="175" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1603724745415" />
-    <state width="1259" height="175" key="GridCell.Tab.0.center" timestamp="1603724745413">
+    <state width="1259" height="175" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1603724805165" />
+    <state width="1259" height="175" key="GridCell.Tab.0.center" timestamp="1603724805164">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state width="1259" height="175" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1603724745413" />
-    <state width="1259" height="175" key="GridCell.Tab.0.left" timestamp="1603724745412">
+    <state width="1259" height="175" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1603724805164" />
+    <state width="1259" height="175" key="GridCell.Tab.0.left" timestamp="1603724805163">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state width="1259" height="175" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1603724745412" />
-    <state width="1259" height="175" key="GridCell.Tab.0.right" timestamp="1603724745414">
+    <state width="1259" height="175" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1603724805163" />
+    <state width="1259" height="175" key="GridCell.Tab.0.right" timestamp="1603724805164">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state width="1259" height="175" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1603724745414" />
+    <state width="1259" height="175" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1603724805164" />
     <state x="240" y="117" key="Vcs.Push.Dialog.v2" timestamp="1603723518425">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
