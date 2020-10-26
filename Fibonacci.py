@@ -1,6 +1,6 @@
 x1 = 1
 x2= 1
-Steps = 10
+Steps = 12
 R = Steps-2
 
 print x1
